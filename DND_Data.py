@@ -301,3 +301,11 @@ dieties = ["Auril", "Azuth", "Bhaal", "Cyric", "Helm", "Leira", "Malar", "Savra"
 traits = ['Argumentative', 'Arrogant', 'Blustering', 'Rude', 'Curious', 'Friendly', 'Honest', 'Hot tempered', 'Irritable', 'Quiet']
 
 gender= ['male', 'female', 'non-binary']
+
+mon_title = ['Widowed', 'Drunken', 'Erect', 'Golden', 'Silver', 'Ancient', 'Newborn', 'Recently exiled', 'Buff', 'Chubby', 'Rancid smelling', 'Metallic', 'Matte', 'Shiny', 'Shimmering', 'Dull', 'Squeaky', 'Angry', 'Raging', 'Army of', 'Chief', 'COO of DazBank, Sir', 'Leaky']
+mon_species = ['Mouse with a headband and a pair of samurai swords', 'Dragon with magnificent facial hair', 'Minotaur that has clearly skipped working out its chest', '12 legged Spider', 'Sentient Boot', 'Psychic Porkchop', 'Walking Tree', 'Pronged Broom', 'Monkey', 'Rabbit of Asgard', 'Goat', 'Beaver with a helicopter tail', 'Hydra', 'Manticore', 'Chimera', 'Siren', 'Lion Turtle', 'Clown']
+mon_weapon = ['Wagon full of alcoholic beverages', 'A single nuclear missile.', 'Large Oak trunk', 'Large sword', 'Rusty axe', 'Poisoned claws', 'Poisoned teeth', 'Fire breath', 'All level 4+ spells', "Stolen keys"]
+mon_armour = ['Leather chestplate']
+mon_drop = ["DM's choice: shared between all alive party members", "DM's choice: given to 1 specified party member", "DM's choice: given to 1 randomly selected party member"]
+mon_traits = ['Darkvision', '']
+mon_languages = ['Common', 'Elven', 'Draconic', 'Infernal', 'Giant', 'Gnoll', 'Gnome', 'Goblin', 'Orc', 'Sylvan', 'Undercommon']
