@@ -302,10 +302,14 @@ traits = ['Argumentative', 'Arrogant', 'Blustering', 'Rude', 'Curious', 'Friendl
 
 gender= ['male', 'female', 'non-binary']
 
-mon_title = ['Widowed', 'Drunken', 'Erect', 'Golden', 'Silver', 'Ancient', 'Newborn', 'Recently exiled', 'Buff', 'Chubby', 'Rancid smelling', 'Metallic', 'Matte', 'Shiny', 'Shimmering', 'Dull', 'Squeaky', 'Angry', 'Raging', 'Army of', 'Chief', 'COO of DazBank, Sir', 'Leaky']
-mon_species = ['Mouse with a headband and a pair of samurai swords', 'Dragon with magnificent facial hair', 'Minotaur that has clearly skipped working out its chest', '12 legged Spider', 'Sentient Boot', 'Psychic Porkchop', 'Walking Tree', 'Pronged Broom', 'Monkey', 'Rabbit of Asgard', 'Goat', 'Beaver with a helicopter tail', 'Hydra', 'Manticore', 'Chimera', 'Siren', 'Lion Turtle', 'Clown']
-mon_weapon = ['Wagon full of alcoholic beverages', 'A single nuclear missile.', 'Large Oak trunk', 'Large sword', 'Rusty axe', 'Poisoned claws', 'Poisoned teeth', 'Fire breath', 'All level 4+ spells', "Stolen keys"]
+mon_title = ['Widowed', 'Alcoholic', 'Erect', 'Golden', 'Silver', 'Ancient', 'Newborn', 'Recently exiled', 'Buff', 'Chubby', 'Rancid smelling', 'Metallic', 'Matte', 'Shiny', 'Shimmering', 'Dull', 'Squeaky', 'Angry', 'Raging', 'Army of', 'Chief', 'COO of DazBank, Sir', 'Leaky', 'Naughty', 'Allergic', "Rainbow", "Near sighted"]
+
+mon_species = ['Mouse with a headband and a pair of samurai swords', 'Dragon', 'Minotaur that has clearly skipped working out its chest', '12 legged Spider', 'Sentient Boot', 'Psychic Porkchop', 'Walking Tree', 'Pronged Broom', 'Monkey Hercules', 'Rabbit of Asgard', 'Viking Goat', 'Beaver with a helicopter for a tail', 'Fluffy Hydra', 'Manticore, guardian of the yard sale', 'Chimera', 'Siren, defender of the kitchen sink', 'Lion Turtle', 'Clown', 'Mimic', 'Gelatinous Cube', 'Werewolf the fruit picker', 'Griffin', 'Cyclops', 'Man-eating Giant', 'Spartan Warrior', "Hamster that was once the leader of the highschool Alpha Theta Gamma frat house and hasn't done anything else with it's life since", "Banshee Sheep", "Skeleton with dreams of making it to the NFL", "Kang, Gerbil overloard of the vortex", "Kung-fu Dugong"]
+
+mon_weapon = ['Wagon full of alcoholic beverages', 'A single nuclear missile.', 'Large Oak trunk', 'Large sword', 'Rusty axe', 'Javelin', 'Poisoned claws', 'Poisoned teeth', 'Fire breath', 'All level 4+ spells', "Stolen keys", "High pitched screech"]
+
 mon_armour = ['Leather chestplate']
-mon_drop = ["DM's choice: shared between all alive party members", "DM's choice: given to 1 specified party member", "DM's choice: given to 1 randomly selected party member"]
-mon_traits = ['Darkvision', '']
+
+mon_drop = ["DM's choice: shared between ALL ALIVE party members", "DM's choice: given to 1 SPECIFIED party member", "DM's choice: given to 1 RANDOMLY SELECTED party member"]
+
 mon_languages = ['Common', 'Elven', 'Draconic', 'Infernal', 'Giant', 'Gnoll', 'Gnome', 'Goblin', 'Orc', 'Sylvan', 'Undercommon']
