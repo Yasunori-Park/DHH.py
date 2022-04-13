@@ -1,5 +1,6 @@
-# DHH.py
+# Discord_Bot: Daz's Hunting Horn
 Python discord bot hosted on Replit + Uptimerobot, that can run commands based on !.
+This project was actively worked on from late February - mid April 2022. It was started purely to get a better grasp of Python, API requests, working with JSON and working with classes. 
 
 ### Things the bot can do 
 - Retrieve a random quote from zenquotes.io
