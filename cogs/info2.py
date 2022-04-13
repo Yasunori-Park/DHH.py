@@ -104,7 +104,7 @@ class info2(commands.Cog):
     query2 = (google_url + query)
     await ctx.send(query2 + "\nThe first result from the above google search is:\n")
     headers = {
-      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:98.0) Gecko/20100101 Firefox/98.0"}
+      "User-Agent": "XYZ-Removed for privacy"}
     search = requests.get(query2, headers=headers)
     empty = []
     empty2 = []
